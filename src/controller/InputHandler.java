@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class InputHandler {
+public class  InputHandler {
     private ArrayList<Process> processes;
     private Scanner input;
 
